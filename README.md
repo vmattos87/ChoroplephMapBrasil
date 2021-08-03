@@ -10,4 +10,4 @@ Exemplos disponíveis:
 https://colab.research.google.com/github/vmattos87/ChoroplethMapBrasil/blob/master/Choropleth_desmatamento2020.ipynb
 
 2. Alguns features do Atlas do Desenvolvimento Humano do Brasil, como expectativa de vida e população urbana
-(upload sendo providenciado)
+https://colab.research.google.com/drive/1Hi5jxAssh4irhJZhodqHg3qB-YloUdv4?usp=sharing
